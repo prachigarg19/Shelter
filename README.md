@@ -15,9 +15,7 @@
 4. Express.js framework 
 
 
-### Note on Issues
 
-For any bugs or errors in the project reach out to me on shyamchadha34@gmail.com
 
 ### Usage
 
